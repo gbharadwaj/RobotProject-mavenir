@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <relativeTo>WORKSPACE</relativeTo>
+    <referencedLibrary type="PYTHON" name="re" path="C:/Python27/Lib/re.py"/>
+    <referencedLibrary type="PYTHON" name="SSHLibrary" path="C:/Python27/Lib/site-packages/SSHLibrary/__init__.py"/>
+    <referencedLibrary type="PYTHON" name="requests" path="C:/Python27/Lib/site-packages/requests/__init__.py"/>
+    <pythonpath/>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+</projectConfiguration>
